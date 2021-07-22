@@ -66,6 +66,8 @@ The purpose of this analysis was to test the beta site for PlanMyTripp app and a
 
 - A directions layer map between the cities and the travel map is created and uploaded as WeatherPy_travel_map.png.
 
+![image](https://user-images.githubusercontent.com/85530690/126715714-48da4374-70a8-49f9-a148-6659a5ffa8fb.png)
+
 - A DataFrame that contains the four cities on the itinerary is created. 
 
 - A marker layer map with a pop-up marker for the cities on the itinerary is created, and it is uploaded as WeatherPy_travel_map_markers.png. Each marker has the following information:
