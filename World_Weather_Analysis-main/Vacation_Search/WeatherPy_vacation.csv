@@ -1,0 +1,240 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+0,Shingu,JP,90.01,overcast clouds,34.0667,134.15,Farmers House Yuzunosato Izumi
+1,Butaritari,KI,83.12,few clouds,3.0707,172.7902,Isles Sunset Lodge
+3,Pacific Grove,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+5,Akdepe,TM,89.69,clear sky,42.0551,59.3788,Мой дом
+6,Hilo,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+8,Buraydah,SA,91.85,clear sky,26.326,43.975,فندق راحة السلام
+12,Meulaboh,ID,83.7,few clouds,3.3,117.6333,RedDoorz Syariah near Taman Berlabuh Tarakan
+18,Airai,PW,88.3,overcast clouds,7.0419,134.2556,Storyboard Beach Resort
+22,Kapaa,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+30,Avarua,CK,78.85,clear sky,-21.2078,-159.775,Paradise Inn
+33,Matay,EG,86.18,clear sky,27.181,31.1837,Florence Hotel Assiut
+43,Muroto,JP,90.01,overcast clouds,34.0667,134.15,Farmers House Yuzunosato Izumi
+52,Atascadero,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+53,Lompoc,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+57,Sao Filipe,CV,75.81,scattered clouds,14.8961,-24.4956,Hotel Xaguate
+60,Phan Thiet,VN,86.09,overcast clouds,21.1833,106.05,Nhà Nghỉ Xuân Hòa
+64,Wenatchee,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+69,Fortuna,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+70,Kaseda,JP,90.01,overcast clouds,34.0667,134.15,Farmers House Yuzunosato Izumi
+73,Hami,CN,90.05,broken clouds,30.5092,117.0506,Hongtian Hotel
+74,Shubarshi,KZ,92.91,clear sky,44.1667,52.1167,Rtsm Shetpe Analog
+77,Changji,CN,90.05,broken clouds,30.5092,117.0506,Hongtian Hotel
+79,Udine,IT,75.15,clear sky,38.685,16.5499,Hotel San Domenico
+86,Makakilo City,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+88,Jamestown,MY,91.33,few clouds,5.4112,100.3354,Cititel Penang
+91,Hithadhoo,MV,83.28,overcast clouds,3.7833,72.9667,Omadhoo Inn
+93,Sungai Besar,MY,91.45,overcast clouds,3.6746,100.9867,NIDA Rooms Sabak Bernam Comfort
+94,Abu Dhabi,AE,93.31,clear sky,24.4667,54.3667,Ramee Garden Hotel Apartments
+96,Wau,PG,78.49,overcast clouds,-10.6167,150.6667,Nuli Sapi
+98,Victoria,HK,90.32,scattered clouds,22.2855,114.1577,Mini Hotel Central
+101,Biella,IT,75.15,clear sky,38.685,16.5499,Hotel San Domenico
+111,Vaini,TO,77.16,few clouds,-21.2,-175.2,Keleti Beach Resort
+112,Fairbanks,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+116,Abu Samrah,SY,77.61,clear sky,35.3029,37.1841,
+118,Iranshahr,IR,85.32,clear sky,38.6066,44.9883,مسجد امام رضا
+120,Palabuhanratu,ID,83.7,few clouds,3.3,117.6333,RedDoorz Syariah near Taman Berlabuh Tarakan
+121,Eureka,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+122,Kuche,CN,90.05,broken clouds,30.5092,117.0506,Hongtian Hotel
+124,Illela,NG,80.91,scattered clouds,13.7292,5.2975,
+126,Jomalig,PH,89.19,overcast clouds,10.1815,119.236,Peace and Love Beach Club
+127,Barrow,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+130,Kavieng,PG,78.49,overcast clouds,-10.6167,150.6667,Nuli Sapi
+135,Potsdam,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+141,Naze,JP,90.01,overcast clouds,34.0667,134.15,Farmers House Yuzunosato Izumi
+143,Sur,OM,97.93,broken clouds,22.5667,59.5289,Sur Plaza Hotel
+146,Zhaotong,CN,90.05,broken clouds,30.5092,117.0506,Hongtian Hotel
+148,Marsh Harbour,TC,81.18,few clouds,21.4612,-71.1419,Osprey Beach Hotel
+155,Marv Dasht,IR,85.32,clear sky,38.6066,44.9883,مسجد امام رضا
+165,Palmer,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+172,The Valley,AI,82.26,clear sky,18.217,-63.0578,CeBlue Villas & Beach Resort
+173,Tabou,CI,76.06,light rain,4.423,-7.3528,hotêl doufoulougou
+176,Eyl,SO,79.79,scattered clouds,8.4054,48.4845,Curubo Hotel
+177,Ashqelon,IL,79.92,clear sky,31.6693,34.5715,Leonardo Ashkelon
+179,Viligili,MV,83.28,overcast clouds,3.7833,72.9667,Omadhoo Inn
+181,Yangmei,TW,87.22,overcast clouds,23.9664,120.9695,小島好樂
+183,Merauke,ID,83.7,few clouds,3.3,117.6333,RedDoorz Syariah near Taman Berlabuh Tarakan
+187,Georgetown,MY,91.33,few clouds,5.4112,100.3354,Cititel Penang
+189,Bose,CN,90.05,broken clouds,30.5092,117.0506,Hongtian Hotel
+195,Pueblo Bello,CO,82.49,clear sky,10.9878,-74.9547,Hotel El Emigrante
+201,Baker City,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+204,Aden,YE,85.32,clear sky,12.7794,45.0367,Sama Emirate Hotel
+213,Juneau,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+215,Balaipungut,ID,83.7,few clouds,3.3,117.6333,RedDoorz Syariah near Taman Berlabuh Tarakan
+217,Ponta Do Sol,CV,75.81,scattered clouds,14.8961,-24.4956,Hotel Xaguate
+219,Yumen,CN,90.05,broken clouds,30.5092,117.0506,Hongtian Hotel
+223,Bilma,NG,80.91,scattered clouds,13.7292,5.2975,
+226,Padang,ID,83.7,few clouds,3.3,117.6333,RedDoorz Syariah near Taman Berlabuh Tarakan
+227,Cayenne,GF,78.57,few clouds,5.3833,-52.95,ALETHEIA Appartement Sinnamary
+232,Hayden,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+235,Banda Aceh,ID,83.7,few clouds,3.3,117.6333,RedDoorz Syariah near Taman Berlabuh Tarakan
+240,Thinadhoo,MV,83.28,overcast clouds,3.7833,72.9667,Omadhoo Inn
+243,Waddan,LY,79.34,clear sky,27.0377,14.4283,Foundation Taaj Asala for Historical Research and Archeology
+244,Bengkulu,ID,83.7,few clouds,3.3,117.6333,RedDoorz Syariah near Taman Berlabuh Tarakan
+248,Buenaventura,CO,82.49,clear sky,10.9878,-74.9547,Hotel El Emigrante
+249,Pakxan,LA,77.85,overcast clouds,20.4197,104.0439,Xee Wang Guesthouse
+250,Skibbereen,PH,86.32,broken clouds,10.9995,122.6711,SEGAYA PROPERTY
+251,San Andres,CO,82.49,clear sky,10.9878,-74.9547,Hotel El Emigrante
+253,Benton,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+258,Aksu,CN,90.05,broken clouds,30.5092,117.0506,Hongtian Hotel
+259,Tottori,JP,90.01,overcast clouds,34.0667,134.15,Farmers House Yuzunosato Izumi
+266,Dongsheng,CN,90.05,broken clouds,30.5092,117.0506,Hongtian Hotel
+268,Ternate,ID,83.7,few clouds,3.3,117.6333,RedDoorz Syariah near Taman Berlabuh Tarakan
+269,Flagstaff,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+270,Khorramshahr,IR,85.32,clear sky,38.6066,44.9883,مسجد امام رضا
+271,Nago,JP,90.01,overcast clouds,34.0667,134.15,Farmers House Yuzunosato Izumi
+274,Huntley,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+275,Danjiangkou,CN,90.05,broken clouds,30.5092,117.0506,Hongtian Hotel
+279,Merrill,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+285,Khor,SY,77.61,clear sky,35.3029,37.1841,
+287,Krasnoarmeysk,KZ,92.91,clear sky,44.1667,52.1167,Rtsm Shetpe Analog
+289,Basco,PH,89.19,overcast clouds,10.1815,119.236,Peace and Love Beach Club
+294,Janesville,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+296,Salalah,OM,97.93,broken clouds,22.5667,59.5289,Sur Plaza Hotel
+302,Tessalit,ML,84.83,scattered clouds,20.1986,1.0114,
+304,Bandarbeyla,SO,79.79,scattered clouds,8.4054,48.4845,Curubo Hotel
+307,Lata,SB,84.04,light rain,-8.145,159.5921,Maringe Lagoon Lodge
+311,Matara,LK,80.92,overcast clouds,5.9485,80.5353,Amaloh Boutique Resort
+312,Sungaipenuh,ID,83.7,few clouds,3.3,117.6333,RedDoorz Syariah near Taman Berlabuh Tarakan
+313,Kodiak,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+314,Gat,LY,79.34,clear sky,27.0377,14.4283,Foundation Taaj Asala for Historical Research and Archeology
+315,Bethel,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+317,Price,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+318,Tabiauea,KI,83.12,few clouds,3.0707,172.7902,Isles Sunset Lodge
+319,Esmeralda,CU,79.84,clear sky,21.8525,-78.1169,Centro de Pioneros Exploradores
+321,Nan,TH,80.65,overcast clouds,15.9167,104.75,หอพักนักศึกษา
+323,Namatanai,PG,78.49,overcast clouds,-10.6167,150.6667,Nuli Sapi
+324,Saraland,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+333,Murgab,TM,89.69,clear sky,42.0551,59.3788,Мой дом
+335,Gazli,UZ,94.06,clear sky,40.1333,63.45,
+337,Moses Lake,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+342,Nantucket,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+344,Pecos,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+347,Haibowan,CN,90.05,broken clouds,30.5092,117.0506,Hongtian Hotel
+348,Ketchikan,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+349,Hasaki,JP,90.01,overcast clouds,34.0667,134.15,Farmers House Yuzunosato Izumi
+350,Sitka,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+352,Xuzhou,CN,90.05,broken clouds,30.5092,117.0506,Hongtian Hotel
+355,Redmond,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+356,Wajid,SO,79.79,scattered clouds,8.4054,48.4845,Curubo Hotel
+358,Port Said,EG,86.18,clear sky,27.181,31.1837,Florence Hotel Assiut
+362,Buariki,KI,83.12,few clouds,3.0707,172.7902,Isles Sunset Lodge
+364,Sabang,ID,83.7,few clouds,3.3,117.6333,RedDoorz Syariah near Taman Berlabuh Tarakan
+369,Kizukuri,JP,90.01,overcast clouds,34.0667,134.15,Farmers House Yuzunosato Izumi
+371,Wahiawa,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+373,Dongning,CN,90.05,broken clouds,30.5092,117.0506,Hongtian Hotel
+374,Ndouci,CI,76.06,light rain,4.423,-7.3528,hotêl doufoulougou
+378,Pasni,PK,93.15,overcast clouds,32.4832,72.9097,Shahmeer Tea stall
+381,Daru,PG,78.49,overcast clouds,-10.6167,150.6667,Nuli Sapi
+383,Nouadhibou,MR,80.46,clear sky,20.5169,-13.0499,Oumou Elghoura
+392,Barabai,ID,83.7,few clouds,3.3,117.6333,RedDoorz Syariah near Taman Berlabuh Tarakan
+393,Maunabo,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+394,Katsuura,JP,90.01,overcast clouds,34.0667,134.15,Farmers House Yuzunosato Izumi
+397,Khash,IR,85.32,clear sky,38.6066,44.9883,مسجد امام رضا
+398,Bone,ID,83.7,few clouds,3.3,117.6333,RedDoorz Syariah near Taman Berlabuh Tarakan
+400,Ende,ID,83.7,few clouds,3.3,117.6333,RedDoorz Syariah near Taman Berlabuh Tarakan
+403,Mastung,PK,93.15,overcast clouds,32.4832,72.9097,Shahmeer Tea stall
+404,Tahta,EG,86.18,clear sky,27.181,31.1837,Florence Hotel Assiut
+405,Mantua,CU,79.84,clear sky,21.8525,-78.1169,Centro de Pioneros Exploradores
+409,Half Moon Bay,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+412,Lexington,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+414,Mahibadhoo,MV,83.28,overcast clouds,3.7833,72.9667,Omadhoo Inn
+419,Altay,CN,90.05,broken clouds,30.5092,117.0506,Hongtian Hotel
+424,Morro Bay,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+427,Buzmeyin,TM,89.69,clear sky,42.0551,59.3788,Мой дом
+430,Balkanabat,TM,89.69,clear sky,42.0551,59.3788,Мой дом
+431,Kushmurun,KZ,92.91,clear sky,44.1667,52.1167,Rtsm Shetpe Analog
+439,Odweyne,SO,79.79,scattered clouds,8.4054,48.4845,Curubo Hotel
+440,Tongliao,CN,90.05,broken clouds,30.5092,117.0506,Hongtian Hotel
+443,Rapid Valley,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+447,Palauig,PH,89.19,overcast clouds,10.1815,119.236,Peace and Love Beach Club
+451,Plainview,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+456,Kijang,ID,83.7,few clouds,3.3,117.6333,RedDoorz Syariah near Taman Berlabuh Tarakan
+459,Mattoon,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+461,Anqiu,CN,90.05,broken clouds,30.5092,117.0506,Hongtian Hotel
+465,Nome,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+468,Meyungs,PW,88.3,overcast clouds,7.0419,134.2556,Storyboard Beach Resort
+470,Bairiki,KI,83.12,few clouds,3.0707,172.7902,Isles Sunset Lodge
+472,Nam Tha,LA,77.85,overcast clouds,20.4197,104.0439,Xee Wang Guesthouse
+473,Wenling,CN,90.05,broken clouds,30.5092,117.0506,Hongtian Hotel
+477,Mrirt,MA,78.87,clear sky,31.6315,-8.0083,Novotel Marrakech Hivernage
+482,Ballina,PH,86.32,broken clouds,10.9995,122.6711,SEGAYA PROPERTY
+483,Alofi,NU,76.89,broken clouds,-19.0595,-169.9187,Taloa Heights
+485,Kuytun,CN,90.05,broken clouds,30.5092,117.0506,Hongtian Hotel
+492,Kagay,PH,89.19,overcast clouds,10.1815,119.236,Peace and Love Beach Club
+495,Appiano,IT,75.15,clear sky,38.685,16.5499,Hotel San Domenico
+498,Platteville,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+499,Jiayuguan,CN,90.05,broken clouds,30.5092,117.0506,Hongtian Hotel
+502,Cagayan De Tawi-Tawi,PH,89.19,overcast clouds,10.1815,119.236,Peace and Love Beach Club
+505,Gigmoto,PH,89.19,overcast clouds,10.1815,119.236,Peace and Love Beach Club
+514,Shorkot,PK,93.15,overcast clouds,32.4832,72.9097,Shahmeer Tea stall
+516,Nayoro,JP,90.01,overcast clouds,34.0667,134.15,Farmers House Yuzunosato Izumi
+518,Kalmunai,LK,80.92,overcast clouds,5.9485,80.5353,Amaloh Boutique Resort
+521,Huangmei,CN,90.05,broken clouds,30.5092,117.0506,Hongtian Hotel
+524,Lorengau,PG,78.49,overcast clouds,-10.6167,150.6667,Nuli Sapi
+526,Pemangkat,ID,83.7,few clouds,3.3,117.6333,RedDoorz Syariah near Taman Berlabuh Tarakan
+527,Normal,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+528,Baghdad,IQ,91.31,clear sky,33.3406,44.4009,Baghdad Hotel
+531,North Bend,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+532,Labuhan,ID,83.7,few clouds,3.3,117.6333,RedDoorz Syariah near Taman Berlabuh Tarakan
+534,Kidal,ML,84.83,scattered clouds,20.1986,1.0114,
+536,College,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+539,Mana,GF,78.57,few clouds,5.3833,-52.95,ALETHEIA Appartement Sinnamary
+540,Agadez,NG,80.91,scattered clouds,13.7292,5.2975,
+541,Sinnamary,GF,78.57,few clouds,5.3833,-52.95,ALETHEIA Appartement Sinnamary
+547,Mentok,ID,83.7,few clouds,3.3,117.6333,RedDoorz Syariah near Taman Berlabuh Tarakan
+548,Jibuti,DJ,89.02,overcast clouds,11.5,42.5,Orchid Main Camp Goubet
+557,Yakima,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+568,Bandar-E Torkaman,IR,85.32,clear sky,38.6066,44.9883,مسجد امام رضا
+571,Kendari,ID,83.7,few clouds,3.3,117.6333,RedDoorz Syariah near Taman Berlabuh Tarakan
+572,Ajdabiya,LY,79.34,clear sky,27.0377,14.4283,Foundation Taaj Asala for Historical Research and Archeology
+574,Ofaqim,IL,79.92,clear sky,31.6693,34.5715,Leonardo Ashkelon
+576,Anju,CN,90.05,broken clouds,30.5092,117.0506,Hongtian Hotel
+579,Yichun,CN,90.05,broken clouds,30.5092,117.0506,Hongtian Hotel
+580,La Palma,US,86.41,clear sky,33.8464,-118.0467,La Quinta Inn & Suites by Wyndham Buena Park
+585,Chardara,KZ,92.91,clear sky,44.1667,52.1167,Rtsm Shetpe Analog
+586,Oussouye,SN,79.83,overcast clouds,12.485,-16.5469,Auberge du Routard
+590,Harper,LR,76.62,light rain,6.3005,-10.7969,Sunset Inn
+592,Oxford,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+605,Loei,TH,80.65,overcast clouds,15.9167,104.75,หอพักนักศึกษา
+606,Weligama,LK,80.92,overcast clouds,5.9485,80.5353,Amaloh Boutique Resort
+613,Balkhash,KZ,92.91,clear sky,44.1667,52.1167,Rtsm Shetpe Analog
+614,Cockburn Town,TC,81.18,few clouds,21.4612,-71.1419,Osprey Beach Hotel
+617,Manokwari,ID,83.7,few clouds,3.3,117.6333,RedDoorz Syariah near Taman Berlabuh Tarakan
+620,Kansas City,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+628,Bolivar,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+633,Atar,MR,80.46,clear sky,20.5169,-13.0499,Oumou Elghoura
+634,Linxia,CN,90.05,broken clouds,30.5092,117.0506,Hongtian Hotel
+638,Westport,PH,86.32,broken clouds,10.9995,122.6711,SEGAYA PROPERTY
+639,Elk City,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+641,Kamaishi,JP,90.01,overcast clouds,34.0667,134.15,Farmers House Yuzunosato Izumi
+642,Hihifo,TO,77.16,few clouds,-21.2,-175.2,Keleti Beach Resort
+644,Artyom,IR,91.62,clear sky,36.5465,61.0543,
+645,Candawaga,PH,89.19,overcast clouds,10.1815,119.236,Peace and Love Beach Club
+647,Alugan,PH,89.19,overcast clouds,10.1815,119.236,Peace and Love Beach Club
+649,Biak,ID,83.7,few clouds,3.3,117.6333,RedDoorz Syariah near Taman Berlabuh Tarakan
+652,Alihe,CN,90.05,broken clouds,30.5092,117.0506,Hongtian Hotel
+655,Saint-Georges,GF,78.57,few clouds,5.3833,-52.95,ALETHEIA Appartement Sinnamary
+656,Elizabeth City,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+657,Abha,SA,91.85,clear sky,26.326,43.975,فندق راحة السلام
+658,Tak Bai,TH,80.65,overcast clouds,15.9167,104.75,หอพักนักศึกษา
+660,Acajutla,SV,78.85,few clouds,13.55,-88.35,Auto Motel Estrella de Oriente
+661,Bereda,SO,79.79,scattered clouds,8.4054,48.4845,Curubo Hotel
+662,Grand-Santi,GF,78.57,few clouds,5.3833,-52.95,ALETHEIA Appartement Sinnamary
+664,Araouane,ML,84.83,scattered clouds,20.1986,1.0114,
+665,Kahului,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+669,Key West,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+670,Poso,ID,83.7,few clouds,3.3,117.6333,RedDoorz Syariah near Taman Berlabuh Tarakan
+674,Las Vegas,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+677,Rungata,KI,83.12,few clouds,3.0707,172.7902,Isles Sunset Lodge
+684,Iglesias,IT,75.15,clear sky,38.685,16.5499,Hotel San Domenico
+687,Belalcazar,CO,82.49,clear sky,10.9878,-74.9547,Hotel El Emigrante
+688,Cockburn Town,TC,81.18,few clouds,21.4612,-71.1419,Osprey Beach Hotel
+689,Buqayq,SA,91.85,clear sky,26.326,43.975,فندق راحة السلام
+693,Hailar,CN,90.05,broken clouds,30.5092,117.0506,Hongtian Hotel
+700,Cartagena,CO,82.49,clear sky,10.9878,-74.9547,Hotel El Emigrante
+701,Buckeye,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+703,Ewa Beach,US,80.92,light rain,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+710,Bani Walid,LY,79.34,clear sky,27.0377,14.4283,Foundation Taaj Asala for Historical Research and Archeology
+711,Tual,ID,83.7,few clouds,3.3,117.6333,RedDoorz Syariah near Taman Berlabuh Tarakan
