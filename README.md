@@ -50,7 +50,7 @@ The purpose of this analysis was to test the beta site for PlanMyTripp app and a
 
 ![image](https://user-images.githubusercontent.com/85530690/126715090-d737b1e4-9eb3-478b-a489-96dc488532a9.png)
 
-- Files locatedin the Vacation_Search folder:
+- Files located in the Vacation_Search folder:
   - The Vacation_Search.ipynb file
   - The WeatherPy_vacation.csv file
   - The WeatherPy_vacation_map.png image
@@ -58,3 +58,26 @@ The purpose of this analysis was to test the beta site for PlanMyTripp app and a
 
 
 ## Deliverable 3: Create a Travel Itinerary Map
+
+- Four DataFrames are created, one for each city on the itinerary. 
+
+
+- The latitude and longitude pairs for each of the four cities are retrieved. 
+
+- A directions layer map between the cities and the travel map is created and uploaded as WeatherPy_travel_map.png.
+
+- A DataFrame that contains the four cities on the itinerary is created. 
+
+- A marker layer map with a pop-up marker for the cities on the itinerary is created, and it is uploaded as WeatherPy_travel_map_markers.png. Each marker has the following information:
+  - Hotel name
+  - City
+  - Country
+  - Current weather description with the maximum temperature
+
+![image](https://user-images.githubusercontent.com/85530690/126715608-7ff88515-9596-4496-b878-931cbb64af17.png)
+
+
+- Files located in the Vacation_Itinerary folder:
+  - The Vacation_Itinerary.ipynb file
+  - The WeatherPy_travel_map.png image
+  - The WeatherPy_travel_map_markers.png image
