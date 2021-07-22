@@ -48,6 +48,7 @@ The purpose of this analysis was to test the beta site for PlanMyTripp app and a
 
 - The marker layer map is saved and uploaded to the Vacation_Search folder as WeatherPy_vacation_map.png. 
 
+![image](https://user-images.githubusercontent.com/85530690/126715090-d737b1e4-9eb3-478b-a489-96dc488532a9.png)
 
 - Files locatedin the Vacation_Search folder:
   - The Vacation_Search.ipynb file
