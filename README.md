@@ -13,7 +13,11 @@ The purpose of this analysis was to test the beta site for PlanMyTripp app and a
   - Wind speed
   - Weather description (for example, clouds, fog, light rain, clear sky)
 
+![image](https://user-images.githubusercontent.com/85530690/126714402-c99af79b-b6fa-4cc6-ae42-7152ecd756a9.png)
+
 - Add the weather data to a new DataFrame 
+- 
+![image](https://user-images.githubusercontent.com/85530690/126714461-f97249ea-d791-44ae-a338-f5e8fdf10502.png)
 
 - Export the DataFrame as WeatherPy_Database.csv into the Weather_Database folder
 
