@@ -5,6 +5,21 @@ The purpose of this analysis was to test the beta site for PlanMyTripp app and a
 
 ## Deliverable 1: Retrieve Weather Data
 
+- Retrieve all of the following information from the API call.
+  - Latitude and longitude
+  - Maximum temperature
+  - Percent humidity
+  - Percent cloudiness
+  - Wind speed
+  - Weather description (for example, clouds, fog, light rain, clear sky)
+
+- Add the weather data to a new DataFrame 
+
+- Export the DataFrame as WeatherPy_Database.csv into the Weather_Database folder
+
+- Weather Data Folders Inlcuded:
+    - The Weather_Database.ipynb file
+    - The WeatherPy_Database.csv file
 
 
 ## Deliverable 2: Create a Customer Travel Destinations Map
