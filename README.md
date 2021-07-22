@@ -28,6 +28,32 @@ The purpose of this analysis was to test the beta site for PlanMyTripp app and a
 
 ## Deliverable 2: Create a Customer Travel Destinations Map
 
+- Input statements are written to prompt the customer for their minimum and maximum temperature preferences.
+
+- A new DataFrame is created based on the minimum and maximum temperature, and empty rows are dropped.
+
+
+- The hotel name is retrieved and added to the DataFrame, and the rows that don’t have a hotel name are dropped.
+
+
+- The DataFrame is exported as a CSV file into the Vacation_Search folder and is saved as WeatherPy_vacation.csv. 
+
+
+- A marker layer map with pop-up markers for the cities in the vacation DataFrame is created, and it is uploaded as a PNG. Each marker has the following information:
+  - Hotel name
+  - City
+  - Country
+  - Current weather description with the maximum temperature
+
+
+- The marker layer map is saved and uploaded to the Vacation_Search folder as WeatherPy_vacation_map.png. 
+
+
+- Files locatedin the Vacation_Search folder:
+  - The Vacation_Search.ipynb file
+  - The WeatherPy_vacation.csv file
+  - The WeatherPy_vacation_map.png image
+
 
 
 ## Deliverable 3: Create a Travel Itinerary Map
